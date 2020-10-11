@@ -14,22 +14,3 @@ for (i = 0; i < acc.length; i++) {
         }
     });
 }
-
-
-var link = document.querySelectorAll(".link");
-
-link.forEach(element => {
-
-    element.addEventListener('click', function(e) {
-
-        let a = e.target.parentElement.parentElement.previousElementSibling.innerText;
-        let b = e.target.innerText;
-
-        title = a + "/" + b;
-
-        document.getElementById("kursTitle").innerText = title;
-
-
-        e.preventDefault();
-    });
-});

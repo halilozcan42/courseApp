@@ -1,0 +1,91 @@
+{
+    "courses": [{
+            "id": "svaed",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Eductus",
+            "schoolcode": "ED GRNSVA2 DG",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Dag"
+        },
+        {
+            "id": "svaed",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Eductus",
+            "schoolcode": "ED GRNSVA2 DI",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Distans"
+        },
+        {
+            "id": "svaev",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Everystep",
+            "schoolcode": "EV GRNSVA2 DG",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Kväll"
+        },
+        {
+            "id": "svaev",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Everystep",
+            "schoolcode": "EV GRNSVA2 DI",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Distans"
+        },
+        {
+            "id": "svaev",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Everystep",
+            "schoolcode": "EV GRNSVA2 DG",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Dag"
+        },
+        {
+            "id": "svafo",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Folkuniversitet",
+            "schoolcode": "FU GRNSVA2 DG",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Kväll"
+        },
+        {
+            "id": "svafo",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Folkuniversitet",
+            "schoolcode": "FU GRNSVA2 DI",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Distans"
+        },
+        {
+            "id": "svafo",
+            "name": "Svenska som andraspråk",
+            "coursecode": "GRNSVA2",
+            "year": 2020,
+            "point": 700,
+            "school": "Folkuniversitet",
+            "schoolcode": "FU GRNSVA2 DG",
+            "date": "30 dec 2019 - 3 jan 2021",
+            "period": "Dag"
+        }
+    ]
+}
